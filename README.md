@@ -5,7 +5,9 @@ This patch is for making Nethunter Parrot Os And Andrax Android kernels.
 
 Patch can be completed by executing git am DJY_XXXXX.patch in the root directory of the kernel source code.
 
-git am DJY_XXXXX.patch The driver code comes from: https://github.com/aircrack-ng/rtl8188eus.git v5.7.6.1
+git am DJY_XXXXX.patch The driver 
+
+code comes from: https://github.com/aircrack-ng/rtl8188eus.git v5.7.6.1
 
 2020.3.10 patch last update date
 
