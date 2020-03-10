@@ -1,4 +1,4 @@
-# DJY_RTL8188RUs_For_4.4__4.9_4.14_4.19_Android_Kernel_Patch
+# DJY_RTL8188EUs_For_4.4__4.9_4.14_4.19_Android_Kernel_Patch
 
 
 This patch is for making Nethunter Parrot Os And Andrax Android kernels.
